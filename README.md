@@ -13,6 +13,8 @@ print(name)
 print("tnx!")
 <hr>
 day2 programing on Python!😁
+<br>
 i make a clock 😁
 file:
+<br>
 [project4 - Clock.zip](https://github.com/GabrielDonev/progressing/files/9627520/project4.-.Clock.zip)
